@@ -17,7 +17,7 @@ export default function Footer() {
               style={{ textDecoration: "none", color: "white" }}
             >
               <i className="fa-solid fa-cloud-arrow-up"></i>
-              {""}E Cart
+              {""}TeeRex
             </Link>
           </h2>
           <p>
@@ -119,7 +119,7 @@ export default function Footer() {
           </div>
         </div>
       </div>
-      <p>Copyright © 2023 Media Player. Built with React.</p>
+      <p>Copyright © 2023 TeeRex. Built with React.</p>
     </div>
   );
 }
